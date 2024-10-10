@@ -7,6 +7,7 @@ CHANGE CHECKLIST
 -----------------------
 
 (APPLY AFTER VICEN04 PATCH 1.11.5)
+https://github.com/Vicen04/Dw1DataAndPatches
 
 ---------------------
 DIGIMON CHANGES
