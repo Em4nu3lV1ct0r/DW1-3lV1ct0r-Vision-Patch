@@ -2,9 +2,6 @@
 3lVict0r Vision Patch 1.0
 ---------------------
 
-------------------------
-CHANGE CHECKLIST
------------------------
 
 (APPLY AFTER VICEN04 PATCH 1.11.5)
 https://github.com/Vicen04/Dw1DataAndPatches
