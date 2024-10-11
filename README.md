@@ -6,6 +6,8 @@
 (APPLY AFTER VICEN04 PATCH 1.11.5)
 https://github.com/Vicen04/Dw1DataAndPatches
 
+Some small changes made for the Vicen04 patch, Digievolution Redistribution, exclusive required statuses for extra digimons, Skill Changes, Better Rewards in Digimon Curling, etc.
+
 
 
 --------------
