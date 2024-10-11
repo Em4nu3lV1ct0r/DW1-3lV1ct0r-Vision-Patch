@@ -6,7 +6,17 @@
 (APPLY AFTER VICEN04 PATCH 1.11.5)
 https://github.com/Vicen04/Dw1DataAndPatches
 
-Some small changes made for the Vicen04 patch, Digievolution Redistribution, exclusive required statuses for extra digimons, Skill Changes, Better Rewards in Digimon Curling, etc.
+Some small changes made for the Vicen04 patch: 
+
+*Digievolution Redistribution;
+*Exclusive required statuses for extra digimons;
+*Skill Changes;
+*Better Rewards and drop rate in Digimon Curling;
+*Best drop rate in treasure hunt;
+*Fairer prices at the shogungekomon Store
+*Other small changes listed in the patch txt.
+
+
 
 
 
