@@ -1,5 +1,5 @@
 ---------------------
-3lVict0r Vision Patch 1.6
+3lVict0r Vision Patch 1.7
 ---------------------
 
 
